@@ -16,7 +16,7 @@ namespace GreetingApp
             Console.WriteLine("Name: " + name);
             Console.WriteLine("Total enrolled courses: " + enrolled);
             Console.WriteLine("Price of my favorite book: " + price);
-            Console.WriteLine("Press any key to exit...");
+            Console.WriteLine("\nPress any key to exit...");
             Console.ReadKey();
         }
     }
